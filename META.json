@@ -1,5 +1,5 @@
 {
-   "abstract" : "Internal (for now) Plack app behind charon",
+   "abstract" : "See charon",
    "author" : [
       "Arthur Axel \"fREW\" Schmidt <frioux+cpan@gmail.com>"
    ],
@@ -56,6 +56,6 @@
          "web" : "https://github.com/frioux/App-Charon"
       }
    },
-   "version" : "0.001000"
+   "version" : "0.001001"
 }
 

@@ -10,6 +10,7 @@ TODO.md
 bin/charon
 cpanfile
 dist.ini
+lib/App/Charon.pm
 lib/App/Charon/Web.pm
 t/release-pod-syntax.t
 t/simple.t

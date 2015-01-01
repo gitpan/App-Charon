@@ -1,8 +1,13 @@
 NAME
-    App::Charon::Web - Internal (for now) Plack app behind charon
+    App::Charon - See charon
 
 VERSION
-    version 0.001000
+    version 0.001001
+
+STUB
+    I have to have this because reasons. See the real doc at charon.
+
+    1;
 
 AUTHOR
     Arthur Axel "fREW" Schmidt <frioux+cpan@gmail.com>

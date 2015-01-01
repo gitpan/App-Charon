@@ -1,5 +1,5 @@
 package App::Charon::Web;
-$App::Charon::Web::VERSION = '0.001000';
+$App::Charon::Web::VERSION = '0.001001';
 # ABSTRACT: Internal (for now) Plack app behind charon
 
 use utf8;
@@ -77,7 +77,7 @@ App::Charon::Web - Internal (for now) Plack app behind charon
 
 =head1 VERSION
 
-version 0.001000
+version 0.001001
 
 =head1 AUTHOR
 
